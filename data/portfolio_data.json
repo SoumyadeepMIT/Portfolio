@@ -1,0 +1,168 @@
+{
+  "skills": [
+    "Python", "JavaScript", "TypeScript", "Java", "C++", "SQL", "HTML/CSS",
+    "React", "Node.js/Express", "Next.js", "Angular", "REST APIs",
+    "PyTorch", "LangChain", "LangGraph", "scikit-learn", "Pandas", "NumPy", "AI-assisted development tools",
+    "PostgreSQL", "MongoDB", "Git", "Anaplan"
+  ],
+  "projects": [
+    {
+      "title": "Real Estate Web Application",
+      "stack": ["MongoDB", "Express", "React", "Node.js"],
+      "description": "Built a full-stack real estate platform end-to-end supporting property listings, user authentication, and real-time updates.",
+      "image": "/projects/estate.jpg",
+      "link": "https://github.com/SoumyadeepMIT/mern-estate-learn"
+    },
+    {
+      "title": "Kanban Board Application",
+      "stack": ["PostgreSQL", "Express.js", "Next.js"],
+      "description": "Built a full-stack kanban app with drag-and-drop boards, a relational PostgreSQL schema, and optimistic UI updates in Next.js.",
+      "image": "/projects/KanbanBoard.png",
+      "link": "https://kanban-board-sepia-nine.vercel.app"
+    },
+    {
+      "title": "GPT-2 Reproduction from Scratch",
+      "stack": ["Python", "PyTorch"],
+      "description": "Implemented a mini GPT-2 from first principles (attention, tokenization, training loop) to develop working knowledge of transformer internals without framework abstractions.",
+      "image": "/projects/GPT2.png",
+      "link": "https://github.com/SoumyadeepMIT/Reproduce_GPT2"
+    },
+    {
+      "title": "Real-Time Face and Emotion Recognition Tool",
+      "stack": ["Python", "PyTorch", "OpenCV"],
+      "description": "Built a real-time face-detection and emotion-classification pipeline on webcam input, tuned for real-time frame rates.",
+      "image": "/projects/emotion.png",
+      "link": "https://github.com/SoumyadeepMIT/FaceRegProject"
+    },
+    {
+      "title": "NBA Hall Of Fame Prediction Model",
+      "stack": ["Python", "scikit-learn", "Pandas", "BeautifulSoup"],
+      "description": "Built a predictive model to determine the likelihood of an NBA player being inducted into the Hall of Fame based on career statistics scraped from basketball-reference.com.",
+      "image": "/projects/basketball.png",
+      "link": "https://github.com/SoumyadeepMIT/NBA-Hall-OF-Fame-Predictions"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "stack": ["Python", "scikit-learn", "Pandas"],
+      "description": "Built a content-based movie recommendation system using scikit-learn and Pandas.",
+      "image": "/projects/movie.png",
+      "link": "https://github.com/SoumyadeepMIT/MovieRecommenderProject"
+    },{
+      "title": "Book Recommendation System",
+      "stack": ["Python", "scikit-learn", "Pandas"],
+      "description": "Built a collaborative-filtering based book recommendation system using scikit-learn and Pandas.",
+      "image": "/projects/book.png",
+      "link": "https://github.com/SoumyadeepMIT/BookRecommendation"
+    },
+    {
+      "title": "Harvard AI Course Projects",
+      "stack": ["Python", "Pygame"],
+      "description": "Implemented various AI algorithms including search, constraint satisfaction, and reinforcement learning as part of the Harvard CS50 AI course.",
+      "image": "/projects/harvard.jpg",
+      "link": "https://github.com/SoumyadeepMIT/Harvard-AI"
+    }, 
+    {
+      "title": "My Git",
+      "stack": ["Python", "Git"],
+      "description": "Implemented a simplified version of Git from scratch in Python, supporting basic commands like init, add, commit, and log.",
+      "image": "/projects/mygit.png",
+      "link": "https://github.com/SoumyadeepMIT/My_git"
+    },
+    {
+      "title": "AI powered PDF Chatbot",
+      "stack": ["Python","LangChain"],
+      "description": "Built a chatbot that can answer questions from a PDF document using LangChain and OpenAI's GPT-3.5-turbo model.",
+      "image": "/projects/pdf_chat.jpg",
+      "link": "https://github.com/SoumyadeepMIT/PDF_Chat_GenAI"
+    },
+    {
+      "title": "React Quiz App",
+      "stack": ["React", "JavaScript"],
+      "description": "Built a simple quiz application using React and JavaScript, allowing users to take quizzes and view their scores.",
+      "image": "/projects/quiz.png",
+      "link": "https://github.com/SoumyadeepMIT/React-quiz"
+    },
+    {
+      "title": "Build you Own tools",
+      "stack": ["Python"],
+      "description": "A collection of small Python scripts and tools that I have built for various purposes,and utility functions.",
+      "image": "/projects/byo.jpg",
+      "link": "https://github.com/SoumyadeepMIT/BuildMyOwnTool"
+    },
+    {
+      "title": "DSA Warrior",
+      "stack": ["C++"],
+      "description": "A collection of data structures and algorithms implementations in C++.",
+      "image": "/projects/dsa.jpg",
+      "link": "https://github.com/SoumyadeepMIT/DSA_Codes"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Southern California, Viterbi School of Engineering",
+      "location": "Los Angeles, CA",
+      "degree": "M.S. in Computer Science",
+      "gpa": "NA",
+      "status": "Expected May 2028"
+    },
+    {
+      "institution": "Manipal Institute of Technology, Manipal Academy of Higher Education",
+      "location": "Udupi, India",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "gpa": "9.57/10",
+      "graduationYear": 2022
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Generative AI Engineering Specialization",
+      "issuer": "IBM",
+      "year": 2026,
+      "link": "https://coursera.org/share/cca5e771423e2bdabefd5e10adec68f6"
+    },
+    {
+      "name": "Full-Stack Web Developer Specialization",
+      "issuer": "Scrimba",
+      "year": 2026,
+      "link": "https://coursera.org/share/7c851a0b11af6bb7596184d93f1210f8"
+    },
+    {
+      "name": "Anaplan Level 2 Model Building",
+      "issuer": "Anaplan",
+      "year": 2022,
+      "link": null
+    },
+    {
+      "name": "Big Data Integration and Processing",
+      "issuer": "UC San Diego",
+      "year": 2022,
+      "link": "https://coursera.org/share/9c854eb0f24f9e2dd728cf1ce948acce"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cisco",
+      "location": "Bangalore, India",
+      "role": "Software Engineer",
+      "durationStart": "July 2022",
+      "durationEnd": "July 2026",
+      "description": "Worked across the stack at Cisco, building an AI-powered Webex bot using LLM agents and tool-calling to answer employee queries in natural language, owned end-to-end from prompt design to production. Also re-architected revenue goals distribution logic and built a bulk goal-submission workflow for sales managers in Anaplan. Trained a predictive model to flag sellers likely to overachieve quota. Finally, developed the React frontend for an internal account-lookup tool."
+    },
+    {
+      "company": "Cisco",
+      "location": "Bangalore, India",
+      "role": "Software developer Intern",
+      "durationStart": "January 2022",
+      "durationEnd": "June 2022",
+      "description": "Built a bulk-load tool that let users manually override system-calculated Anaplan revenue goals without needing engineering support for each change."
+    },
+    {
+      "company": "LVX(Lets Venture)",
+      "location": "Remote",
+      "role": "Full-stack Developer Intern",
+      "durationStart": "June 2021",
+      "durationEnd": "August 2021",
+      "description": "Developed features on a MERN-stack application managing investor and startup profiles, and integrated the Razorpay payment gateway into the backend to enable secure transactions."
+    }
+  ]
+}
